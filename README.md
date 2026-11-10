@@ -24,19 +24,20 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-<img align="left" height="94" width="94" alt="Logo" src="./assets/Performance.png"/>
+<img align="left" height="94" width="94" alt="Logo da Performance Nutrition" src="https://raw.githubusercontent.com/mateussilveira-dev/mateussilveira-dev/main/assets/PERFORMANCE-NUTRITION-logo.webp"/>
 
-**Auxiliar de E-commerce** \
-[**Performane Nutrition**](https://www.performancenutrition.com.br) • E-commerce / Expedição (01/2025 - 03/2026 \)
- `E-commerce`, `Logística`, `Expedição`
-<br/>
+**Auxiliar de E-commerce** <br>
+* [Performance Science Nutrition](https://www.performancenutrition.com.br) • Full-time \
+Linguagens & Tecnologias: `Excel`, `E-commerce`, `Logística`, `Expedição` \
+Projetos em destaque: [Operações e Logística]
+<br/><br/>
 
-<img align="left" height="94" width="94" alt="Logo" src="./assets/DCL Solution.png"/>
+<img align="left" height="94" width="94" alt="Logo DCL Solution" src="https://raw.githubusercontent.com/mateussilveira-dev/mateussilveira-dev/main/assets/dclsolutionsistemas.jpeg"/>
 
-**Estágiário Análise de Sistemas** \
-[**DCL Solution**](https://www.dclsolution.com.br) • Estágio (04/2026 - Atual) \
-Linguagens & Tecnologias: `SQL`, `Testes (QA)`, `Jira` , `Confluence` \
-Projetos em destaque: [Validação de Sistemas](https://www.dclsolution.com.br), [Processos de QA](https://www.dclsolution.com.br)
+**Estagiário Análise de Sistemas** <br>
+* [DCL Solution](https://www.dclsolution.com.br) • Contract \
+Linguagens & Tecnologias: `SQL`, `Testes (QA)`, `Jira`, `Confluence` \
+Projetos em destaque: [Testes de Software], [Suporte]
 <br/>
 
 Encontre-me no [LinkedIn](https://www.linkedin.com/in/iuricode/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.

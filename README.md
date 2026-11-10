@@ -24,7 +24,7 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-<img align="left" height="94" width="94" alt="Logo da Performance Nutrition" src="https://raw.githubusercontent.com/mateussilveira-dev/mateussilveira-dev/main/assets/PERFORMANCE-NUTRITION-logo.webp"/>
+<img align="left" height="94" width="94" alt="Logo da Performance Nutrition" src="https://raw.githubusercontent.com/mateussilveira-dev/mateussilveira-dev/master/assets/PERFORMANCE-NUTRITION-logo.webp"/>
 
 **Auxiliar de E-commerce** <br>
 * [Performance Science Nutrition](https://www.performancenutrition.com.br) • Full-time \
@@ -32,7 +32,7 @@ Linguagens & Tecnologias: `Excel`, `E-commerce`, `Logística`, `Expedição` \
 Projetos em destaque: [Operações e Logística]
 <br/><br/>
 
-<img align="left" height="94" width="94" alt="Logo DCL Solution" src="https://raw.githubusercontent.com/mateussilveira-dev/mateussilveira-dev/main/assets/dclsolutionsistemas.jpeg"/>
+<img align="left" height="94" width="94" alt="Logo DCL Solution" src="https://raw.githubusercontent.com/mateussilveira-dev/mateussilveira-dev/master/assets/dclsolutionsistemas.jpeg"/>
 
 **Estagiário Análise de Sistemas** <br>
 * [DCL Solution](https://www.dclsolution.com.br) • Contract \
